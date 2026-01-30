@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Un pequeño Rincon Nuestro</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Quicksand:wght@300;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Nuestra Historia ❤️</h1>
+            <p>14 de Febrero, 2026</p>
+        </header>
+
+        <section class="collage">
+            <div class="photo-card" style="--angle: -3deg;">
+                <img src="https://via.placeholder.com/300" alt="Nuestra primera foto">
+                <p class="caption">Donde todo empezó...</p>
+            </div>
+
+            <div class="photo-card" style="--angle: 2deg;">
+                <img src="https://via.placeholder.com/300" alt="Nuestra cita">
+                <p class="caption">Nuestra cita favorita</p>
+            </div>
+
+            <div class="photo-card" style="--angle: -1deg;">
+                <img src="https://via.placeholder.com/300" alt="Momento especial">
+                <p class="caption">¡Eres lo mejor!</p>
+            </div>
+        </section>
+
+        <section class="carta">
+            <h2>Para mi persona favorita</h2>
+            <p>Aquí puedes escribir un texto largo y emotivo. Gracias por cada sonrisa, por cada aventura y por estar a mi lado...</p>
+        </section>
+    </div>
+
+</body>
+</html>
